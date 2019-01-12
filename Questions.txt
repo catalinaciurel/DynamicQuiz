@@ -1,0 +1,30 @@
+1;Tatal Anei are 4 fete: Mara, Mia, Mona si ...;Maria;Ana;Mira;Mari;Ana
+2;2 + 2 * 2 - 2 / 2 =;5;6;2;0;5
+3;Apa...;H2O;H2;OH2;HO;H2O
+4;3h si 30min inseamna ... secunde;12000;12600;13600;12300;12600
+5;1 + 1 - 1 + 1 - 1 + 1 - 1 =;0;-1;2;1;1
+6;1 * 2 * 3 * 4 * 5 * 0 =;25;120;0;125;0
+7;Ieri a fost Joi.Poimaine va fi...;Luni;Duminica;Sambata;Vineri;Duminica
+8;Continua sirul 1, 2, 4, 8, ...;12;16;32;40;16
+9;Elimina intrusul;Oaie;Veverita;Gaina;Vaca;Veverita
+10;Un melc urca ziua pe un copac 3m si noaptea aluneca 2m. Dupa cate zile ajunge in varful copacului de 10m?;8;9;10;11;8
+11;Cati mililitri de apa sunt necesari pentru a umple un cub cu muchia de 10cm?;1000ml;100ml;10000ml;10ml;1000ml
+12;Esti intr-o camera intunecoasa cu un chibrit. Vezi o lampa cu ulei, o lumanare si o candela. Ce aprinzi prima data?;Lumanarea;Candela;Lampa cu ulei;Niciuna din variante;Niciuna din variante
+13;Ce numar urmeaza in seria: 172, 84, 40, 18, ...?;8;7;6;5;7
+14;Scrieti cu cifre romane numarul 649;CDLXIX;DCXLIX;CDXLIX;DCLXIX;DCXLIX
+15;"Pomul dupa roade se cunoaste, iar omul dupa...";vorbe;infatisare;fapte;acte;fapte
+16;Tara Soarelui Rasare este...;China;Thailanda;Rusia;Japonia;Japonia
+17;Cel mai lung fluviu din Europa este...;Volga;Dunarea;Rin;Ron;Volga
+18;Cate continente exista pe pamant?;5;6;7;8;7
+19;Cine a scris romanul Ion?;L.Rebreanu;P.Ispirescu;C.Petrescu;M.Sadoveanu;L.Rebreanu
+20;Cu ce tara nu se invecineaza Romania?;Ucraina;Bulgaria;Serbia;Rusia;Rusia
+21;Din ce tara izvoreste Dunarea?;Romania;Austria;Germania;Serbia;Germania
+22;Cate state are Statele Unite ale Americii?;40;45;50;55;50
+23;Care este cea mai mare tara din Europa?;Rusia;Franta;Brazilia;Spania;Rusia
+24;Cine a scris Enigma Otiliei?;C.Petrescu;I.Creanga;G.Calinescu;L.Rebreanu;G.Calinescu
+25;Cate laturi are un hexagon?;6;7;8;10;6
+26;Care este prenumele pictorului Picasso?;Paul;Pablo;Victor;Caius;Pablo
+27;Ce nationalitate avea Pablo Escobar?;Spaniola;Mexicana;Columbiana;Americana;Columbiana
+28;"O mana spala pe alta si amandoua...";fata;obrazul;se ajuta;corpul;obrazul
+29;"La pomul laudat sa nu te duci cu...";sacul;graba;galeata;bucurie;sacul
+30;"Cine se aseamana se...";apropie;aduna;ajuta;cunoaste;aduna
